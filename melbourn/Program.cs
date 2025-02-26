@@ -81,7 +81,7 @@ class Program
 
    
 
-        
+       
         var winner = pilots
             .OrderBy(p => p.Time) 
             .First();
